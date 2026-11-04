@@ -1,0 +1,6 @@
+# Alignaa D2C Website (alignaa.co)
+# In accordance with project brief, staging and design preview is prevented from indexing until client approval
+User-agent: *
+Disallow: /
+
+Sitemap: https://alignaa.co/sitemap.xml
